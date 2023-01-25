@@ -23,3 +23,5 @@ User Stories:
 In order for the project to be completed, all of the above conditions had to be met.
 ___
 I used simple HTML and CSS in this project.
+
+Check out how it looks on [Codepen](https://codepen.io/milutin91/pen/YzYLvGR).
